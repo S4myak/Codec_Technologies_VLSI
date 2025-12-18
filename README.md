@@ -6,7 +6,7 @@ This project focuses on the design and simulation of a simple 4-bit custom proce
 
 The processor operates on 4-bit data, supports a small custom instruction set, and follows a basic fetch–decode–execute cycle. Major components such as the Arithmetic Logic Unit (ALU), Register File, Control Unit, and Memory are implemented and integrated to form a complete processor.
 
-Simulation is performed using free EDA tools, and waveform analysis is used to verify correct operation of instructions. This project demonstrates fundamental concepts of processor architecture, digital design, and hardware description languages.
+Simulation is performed using free EDA tools(https://www.altera.com/downloads/simulation-tools/modelsim-fpgas-standard-edition-software-version-20-1-1) , and waveform analysis is used to verify correct operation of instructions. This project demonstrates fundamental concepts of processor architecture, digital design, and hardware description languages.
 
 ### Instruction format (8-bit)
 
